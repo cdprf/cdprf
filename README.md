@@ -2,7 +2,6 @@
 ### Hi there 👋
 </p>
 <p align="center">
-  <a href="https://ipmoz.com">codeprof </a>
   <a href="https://github.com/cdprf">
   	<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
