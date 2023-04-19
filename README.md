@@ -1,8 +1,9 @@
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=flat)]
 <p align="center">
 ### Hi there 👋
 </p>
 <p align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=flat)]
+   
   <a href="https://github.com/cdprf">
   	<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
