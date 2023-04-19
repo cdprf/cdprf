@@ -11,6 +11,8 @@
   <img alt="icon" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcdprf&labelColor=%23000000&countColor=%23ff8a65" />
 </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)]
 <!--
 **cdprf/cdprf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
