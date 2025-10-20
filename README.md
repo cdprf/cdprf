@@ -9,8 +9,6 @@
 </a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- Başlık ve Tanıtım -->
 
@@ -54,12 +52,12 @@
 
 
 
-<img alt="JavaScript" src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"/>
-<img alt="C++" src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite"/>
-<img alt="Kotlin" src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"/>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite"/>
 </p>
 
 <!-- Frontend Teknolojileri -->
