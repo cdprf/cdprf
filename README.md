@@ -1,17 +1,20 @@
 <!-- Sosyal Medya ve İletişim Butonları -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.google.com/search?q=https://github.com/cdprf" target="_blank">
 <img alt="GitHub" src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"/>
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/yunusemreyuce/" target="_blank">
 <img alt="LinkedIn" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/>
 </a>
 </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- Başlık ve Tanıtım -->
 
-<h1 align="center">Merhaba, ben [Your Name] 👋</h1>
+<h1 align="center">Merhaba, ben Yunus Emre 👋</h1>
 
 <p align="center">
 <em>Teknolojiye ve geliştirmeye tutkulu bir yazılım geliştiriciyim.</em>
@@ -20,13 +23,13 @@
 <!-- GitHub İstatistikleri -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME">
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26langs_count%3D10%26theme%3Dtokyonight"/>
+<a href="https://www.google.com/search?q=https://github.com/cdprf">
+<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dcdprf%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcdprf%26layout%3Dcompact%26langs_count%3D10%26theme%3Dtokyonight"/>
 </a>
 </p>
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME">
+<a href="https://www.google.com/search?q=https://github.com/cdprf">
 <img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dtokyonight" alt="GitHub Streak" />
 </a>
 </p>
@@ -34,8 +37,8 @@
 <!-- GitHub Kupaları -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DYOUR_USERNAME%26theme%3Dtokyonight%26row%3D1%26column%3D7%26margin-w%3D15%26margin-h%3D15" alt="Trophies" />
+<a href="https://www.google.com/search?q=https://github.com/cdprf">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dcdprf%26theme%3Dtokyonight%26row%3D1%26column%3D7%26margin-w%3D15%26margin-h%3D15" alt="Trophies" />
 </a>
 </p>
 
@@ -123,6 +126,9 @@
 <strong>Test & Araçlar:</strong>
 
 
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cdprfs)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <img alt="Jest" src="https://www.google.com/search?q=https://img.shields.io/badge/Jest-C21325%3Fstyle%3Dfor-the-badge%26logo%3Djest%26logoColor%3Dwhite"/>
@@ -133,5 +139,5 @@
 <!-- Ziyaretçi Sayacı -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://api.visitorbadge.io/api/visitors%3Fpath%3Dhttps%253A%252F%252Fgithub.com%252FYOUR_USERNAME%26label%3DProfil%2520Ziyaret%C3%A7isi%26labelColor%3D%2523000000%26countColor%3D%2523263759%26style%3Dfor-the-badge" />
+<img src="https://www.google.com/search?q=https://api.visitorbadge.io/api/visitors%3Fpath%3Dhttps%253A%252F%252Fgithub.com%252Fcdprf%26label%3DProfil%2520vists%26labelColor%3D%2523000000%26countColor%3D%2523263759%26style%3Dfor-the-badge" />
 </p>
