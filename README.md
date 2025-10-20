@@ -22,13 +22,13 @@
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/cdprf">
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dcdprf%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcdprf%26layout%3Dcompact%26langs_count%3D10%26theme%3Dtokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api%3Fusername%3Dcdprf%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcdprf%26layout%3Dcompact%26langs_count%3D10%26theme%3Dtokyonight"/>
 </a>
 </p>
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/cdprf">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dtokyonight" alt="GitHub Streak" />
+<a href="https://github.com/cdprf">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dtokyonight" alt="GitHub Streak" />
 </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/cdprf">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dcdprf%26theme%3Dtokyonight%26row%3D1%26column%3D7%26margin-w%3D15%26margin-h%3D15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/%3Fusername%3Dcdprf%26theme%3Dtokyonight%26row%3D1%26column%3D7%26margin-w%3D15%26margin-h%3D15" alt="Trophies" />
 </a>
 </p>
 
