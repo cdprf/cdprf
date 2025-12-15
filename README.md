@@ -49,13 +49,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=go&logoColor=yellow)
 
-
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"/>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite"/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -118,14 +111,10 @@
 <p align="center">
 <strong>DevOps & Altyapı:</strong>
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-
-
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite"/>
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite"/>
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <!-- Test & Araçlar -->
@@ -133,9 +122,7 @@
 <p align="center">
 <strong>Test & Araçlar:</strong>
 
-<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325%3Fstyle%3Dfor-the-badge%26logo%3Djest%26logoColor%3Dwhite"/>
-<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3%3Fstyle%3Dfor-the-badge%26logo%3Deslint%26logoColor%3Dwhite"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite"/>
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -162,5 +149,5 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <p align="center">
-<img src="https://api.visitorbadge.io/api/visitors%3Fpath%3Dhttps%253A%252F%252Fgithub.com%252Fcdprf%26label%3DProfil%2520vists%26labelColor%3D%2523000000%26countColor%3D%2523263759%26style%3Dfor-the-badge" />
+![Visitors](https://visitorbadge.io/api/visitors?path=github.com/cdprf&label=Profile%20Views&countColor=%23263759)
 </p>
