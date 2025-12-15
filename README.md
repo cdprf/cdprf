@@ -1,36 +1,31 @@
 <!-- Sosyal Medya ve İletişim Butonları -->
 
 <p align="center">
-<a href="https://github.com/cdprf" target="_blank">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite"/>
-</a>
-<a href="https://www.linkedin.com/in/yunusemreyuce/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/>
-</a>
+  <a href="https://github.com/cdprf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yunusemreyuce/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 
 <!-- Başlık ve Tanıtım -->
 
 <h1 align="center">Merhaba, ben Yunus Emre 👋</h1>
-
-<p align="center">
-<em>Teknolojiye ve geliştirmeye tutkulu bir yazılım geliştiriciyim.</em>
-</p>
+<p align="center"><em>Teknol
 
 <!-- GitHub İstatistikleri -->
 
 <p align="center">
-<a href="https://github.com/cdprf">
-<img height="160em" src="https://github-readme-stats.vercel.app/api%3Fusername%3Dcdprf%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dcdprf%26layout%3Dcompact%26langs_count%3D10%26theme%3Dtokyonight"/>
-</a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cdprf&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdprf&layout=compact&theme=tokyonight"/>
 </p>
+
 <p align="center">
-<a href="https://github.com/cdprf">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dtokyonight" alt="GitHub Streak" />
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdprf&theme=tokyonight"/>
 </p>
+
 
 <!-- GitHub Kupaları -->
 
