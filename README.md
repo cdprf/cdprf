@@ -30,9 +30,7 @@
 <!-- GitHub Kupaları -->
 
 <p align="center">
-<a href="https://github.com/cdprf">
-<img src="https://github-profile-trophy.vercel.app/%3Fusername%3Dcdprf%26theme%3Dtokyonight%26row%3D1%26column%3D7%26margin-w%3D15%26margin-h%3D15" alt="Trophies" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=cdprf&theme=tokyonight&row=1&column=7"/>
 </p>
 
 <!-- Teknoloji Yığını Başlığı -->
